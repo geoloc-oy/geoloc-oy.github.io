@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3d7346e3.css",
-    "main.js": "/static/js/main.48934421.js",
+    "main.js": "/static/js/main.3c0f2dd1.js",
     "static/media/video5.mp4": "/static/media/video5.7e3cfc1ac4682358138f.mp4",
     "static/media/background.png": "/static/media/background.63a941f2b929d7f837c4.png",
     "static/media/demo1.png": "/static/media/demo1.2a384929a72b78512c04.png",
@@ -14,7 +14,7 @@
     "static/media/petteri.png": "/static/media/petteri.427dac01ac6cfe2ae4ac.png",
     "static/media/background3.png": "/static/media/background3.9155bb1f28c5acb0c013.png",
     "static/media/background2.png": "/static/media/background2.9807173b832de2ad1d19.png",
-    "static/media/laurih.png": "/static/media/laurih.e49c8ad661a298a8dd6b.png",
+    "static/media/laurih.png": "/static/media/laurih.d3d7a148f0b8ed551736.png",
     "static/media/geoloc_padded_color_white_wordmark_oy.png": "/static/media/geoloc_padded_color_white_wordmark_oy.449d7e2d44bb5dd31e86.png",
     "static/media/clip.png": "/static/media/clip.4e67d0e27c48c9043a68.png",
     "static/media/geoloc_color_white_wordmark.png": "/static/media/geoloc_color_white_wordmark.bb388419416c3c967394.png",
@@ -25,10 +25,10 @@
     "static/media/svg-1.svg": "/static/media/svg-1.d400c9a89ab6f2447ac7e5e3e61c9e0e.svg",
     "index.html": "/index.html",
     "main.3d7346e3.css.map": "/static/css/main.3d7346e3.css.map",
-    "main.48934421.js.map": "/static/js/main.48934421.js.map"
+    "main.3c0f2dd1.js.map": "/static/js/main.3c0f2dd1.js.map"
   },
   "entrypoints": [
     "static/css/main.3d7346e3.css",
-    "static/js/main.48934421.js"
+    "static/js/main.3c0f2dd1.js"
   ]
 }

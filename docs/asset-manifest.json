@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ad2719b.css",
-    "main.js": "/static/js/main.f7aea5eb.js",
+    "main.css": "/static/css/main.d07f4ac7.css",
+    "main.js": "/static/js/main.96274d17.js",
     "static/media/background2.png": "/static/media/background2.810590c6e5d4027c71da.png",
     "static/media/laurim.png": "/static/media/laurim.42c3a37ad0d8824b42e8.png",
     "static/media/geoloc_color_wordmark.png": "/static/media/geoloc_color_wordmark.2043be3e067262c127f2.png",
@@ -10,11 +10,11 @@
     "static/media/geoloc_color_white_wordmark.png": "/static/media/geoloc_color_white_wordmark.bb388419416c3c967394.png",
     "static/media/geoloc_padded_color_icon.png": "/static/media/geoloc_padded_color_icon.8c2f6238b7830809b4aa.png",
     "index.html": "/index.html",
-    "main.8ad2719b.css.map": "/static/css/main.8ad2719b.css.map",
-    "main.f7aea5eb.js.map": "/static/js/main.f7aea5eb.js.map"
+    "main.d07f4ac7.css.map": "/static/css/main.d07f4ac7.css.map",
+    "main.96274d17.js.map": "/static/js/main.96274d17.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad2719b.css",
-    "static/js/main.f7aea5eb.js"
+    "static/css/main.d07f4ac7.css",
+    "static/js/main.96274d17.js"
   ]
 }

@@ -1,29 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.8ad2719b.css",
-    "main.js": "/static/js/main.f01141ea.js",
-    "static/media/background.png": "/static/media/background.63a941f2b929d7f837c4.png",
-    "static/media/svg-2.png": "/static/media/svg-2.f1e6afdac8ddb1718872.png",
-    "static/media/svg-1.png": "/static/media/svg-1.6eaf921757a8c040d3ed.png",
-    "static/media/background3.png": "/static/media/background3.9155bb1f28c5acb0c013.png",
+    "main.js": "/static/js/main.f7aea5eb.js",
     "static/media/background2.png": "/static/media/background2.810590c6e5d4027c71da.png",
     "static/media/laurim.png": "/static/media/laurim.42c3a37ad0d8824b42e8.png",
     "static/media/geoloc_color_wordmark.png": "/static/media/geoloc_color_wordmark.2043be3e067262c127f2.png",
     "static/media/laurih.png": "/static/media/laurih.d3d7a148f0b8ed551736.png",
     "static/media/petteri.png": "/static/media/petteri.87aa4273462ab3bfcfe0.png",
-    "static/media/clip.png": "/static/media/clip.4e67d0e27c48c9043a68.png",
     "static/media/geoloc_color_white_wordmark.png": "/static/media/geoloc_color_white_wordmark.bb388419416c3c967394.png",
     "static/media/geoloc_padded_color_icon.png": "/static/media/geoloc_padded_color_icon.8c2f6238b7830809b4aa.png",
-    "static/media/svg-3.svg": "/static/media/svg-3.86ec0c1f407ee0129c60f708c2b4970a.svg",
-    "static/media/svg-4.svg": "/static/media/svg-4.9c3454968fd8d18d9887530a6ef96024.svg",
-    "static/media/svg-2.svg": "/static/media/svg-2.f0fe8cc09872ac94285115c89bc2ba4f.svg",
-    "static/media/svg-1.svg": "/static/media/svg-1.d400c9a89ab6f2447ac7e5e3e61c9e0e.svg",
     "index.html": "/index.html",
     "main.8ad2719b.css.map": "/static/css/main.8ad2719b.css.map",
-    "main.f01141ea.js.map": "/static/js/main.f01141ea.js.map"
+    "main.f7aea5eb.js.map": "/static/js/main.f7aea5eb.js.map"
   },
   "entrypoints": [
     "static/css/main.8ad2719b.css",
-    "static/js/main.f01141ea.js"
+    "static/js/main.f7aea5eb.js"
   ]
 }
